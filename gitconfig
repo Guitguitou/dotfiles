@@ -48,4 +48,4 @@
   mergeoptions = --no-edit
 [user]
 	email = guillaume.imary@gmail.com
-	name = guillaume imary
+	name = guillaume imary guillaume.imary@gmail.com
